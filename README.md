@@ -3,7 +3,7 @@
 Desenvolvo projetos web e aprofundo meus conhecimentos em React,
 TypeScript e integração com APIs REST.
 
-Busco uma oportunidade como Desenvolvedor Web Júnior, com foco
+Desenvolvedor Web Júnior, com foco
 em construir aplicações úteis, investigar problemas e evoluir
 com a colaboração de uma equipe.
 
