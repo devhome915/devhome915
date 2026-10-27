@@ -1,69 +1,45 @@
-# Olá! Eu sou o Alex dos Santos 👋
+# Olá, eu sou o Alex dos Santos 👋
 
-Desenvolvo projetos web e aprofundo meus conhecimentos em React,
-TypeScript e integração com APIs REST.
+Trabalho com tecnologia e já passei por suporte, manutenção e desenvolvimento de sistemas. Atuei com Angular e Java/Spring Boot na SulAmérica, com Centura na Thomson Reuters e, mais recentemente, na correção de problemas do assistente virtual do Mercado Pago.
 
-Desenvolvedor Web Júnior, com foco
-em construir aplicações úteis, investigar problemas e evoluir
-com a colaboração de uma equipe.
+Hoje, meu foco de estudo é React, TypeScript e Node.js. Uso este GitHub para desenvolver projetos, registrar o que estou aprendendo e acompanhar minhas entregas. Busco uma oportunidade como desenvolvedor web júnior nessa stack.
 
-## Tecnologias que utilizo nos projetos
+## O que estou desenvolvendo
 
-- React e TypeScript
-- JavaScript, HTML e CSS
-- Bootstrap
-- Git e GitHub
-- Vite
-- Consumo de APIs REST
-- GitHub Actions para verificações e publicação
+### [Clone do Orkut](https://github.com/devhome915/orkut)
 
-## Projetos em destaque
+Escolhi recriar algumas telas do Orkut para praticar React e TypeScript com funcionalidades que vão além do layout.
 
-### Clone do Orkut
+Já implementei páginas de perfil, amigos, comunidades e um mural em que é possível criar, editar e excluir recados. Também trabalhei com modais de confirmação, notificações, validações e tratamento de erros. Os dados são armazenados em uma API simulada com JSON Server.
 
-Aplicação de estudo inspirada no Orkut, com páginas de perfil,
-amigos, comunidades e mural de recados.
+Nesse projeto, estou aprendendo a separar componentes, hooks e serviços, além de organizar as alterações com branches e pull requests.
 
-O projeto inclui criação, edição e exclusão de recados,
-API simulada com JSON Server, modais de confirmação,
-notificações e tratamento de erros.
+### [GestãoService](https://github.com/devhome915/Gestao-Service)
 
-[Ver código e instruções](https://github.com/devhome915/orkut)
+Um sistema de gestão para assistência técnica, ainda em fase inicial.
 
-### WX Soluções — Front-end
+A ideia é organizar clientes, orçamentos e ordens de serviço. Comecei pela estrutura com React, TypeScript e Vite. As próximas etapas incluem autenticação, cadastro de clientes e integração com PostgreSQL por meio do Supabase.
 
-Projeto de treinamento com React, navegação entre páginas
-e componentes de interface.
+O planejamento e as tarefas estão no repositório, para acompanhar o que foi feito e o que falta desenvolver.
 
-Possui workflow no GitHub Actions para análise com Oxlint,
-geração do build e publicação no GitHub Pages.
+### [WX Soluções — Front-end](https://github.com/devhome915/wxsolucoes-frontend)
 
-[Ver repositório](https://github.com/devhome915/wxsolucoes-frontend)
+Projeto que utilizo para praticar React, navegação entre páginas e componentes de interface.
 
-### GestãoService — Em desenvolvimento
+Também configurei verificações com GitHub Actions para executar o Oxlint e o build da aplicação a cada alteração enviada.
 
-Projeto de CRM para assistência técnica, com foco inicial
-em autenticação e gestão de clientes.
+## Tecnologias que utilizo
 
-A base utiliza React, TypeScript e Vite. O planejamento prevê
-Supabase, PostgreSQL e controle de acesso por empresa.
-Essas funcionalidades serão implementadas nas próximas etapas.
+- React, TypeScript e JavaScript
+- HTML, CSS e Bootstrap
+- Vite e consumo de APIs REST
+- Git, GitHub e GitHub Actions
 
-[Ver planejamento e progresso](https://github.com/devhome915/Gestao-Service)
+## O que estou estudando agora
 
-## Meu foco de aprendizado
+Estou aprofundando meus conhecimentos em React e TypeScript e avançando no desenvolvimento de APIs com Node.js. Também quero praticar modelagem de dados com PostgreSQL e testes automatizados.
 
-- Aprimorar React e TypeScript.
-- Desenvolver APIs com Node.js.
-- Aprender modelagem de dados e integração com PostgreSQL.
-- Implementar testes automatizados.
-- Praticar o fluxo de trabalho com Issues, branches e Pull Requests.
-
-## Como acompanho minha evolução
-
-Utilizo projetos práticos para desenvolver funcionalidades,
-corrigir problemas e documentar decisões. Nos repositórios,
-compartilho o código e o progresso das entregas.
+Procuro aplicar cada assunto nos projetos: desenvolver uma funcionalidade, investigar os erros e entender o que preciso ajustar antes de seguir para a próxima etapa.
 
 ## Contato
 
