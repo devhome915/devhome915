@@ -35,6 +35,16 @@ Também configurei verificações com GitHub Actions para executar o Oxlint e o 
 - Vite e consumo de APIs REST
 - Git, GitHub e GitHub Actions
 
+### [Portal de Notícias](https://github.com/devhome915/portal-noticias)
+
+Estou desenvolvendo um portal de notícias para praticar a construção de uma aplicação com frontend e backend.
+
+No frontend, uso React, TypeScript e Vite para organizar a exibição das notícias, com busca, filtros por categoria e páginas de detalhes. No backend, trabalho com Node.js, Express e uma API REST para atender tanto o portal público quanto o painel administrativo.
+
+Já implementei recursos de administração e testes para fluxos do backend com Vitest e Supertest. Ainda estou trabalhando nas integrações com serviços do Google e na automação da coleta de notícias.
+
+Esse projeto tem sido uma oportunidade de entender melhor a comunicação entre as camadas da aplicação, a organização do código e o tratamento de dados.
+
 ## O que estou estudando agora
 
 Estou aprofundando meus conhecimentos em React e TypeScript e avançando no desenvolvimento de APIs com Node.js. Também quero praticar modelagem de dados com PostgreSQL e testes automatizados.
