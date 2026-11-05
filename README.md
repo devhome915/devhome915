@@ -46,6 +46,20 @@ Aplicação desenvolvida para praticar React, navegação entre páginas e organ
 
 Também configurei verificações automatizadas com GitHub Actions, executando análise estática com Oxlint e build com Vite.
 
+### [Puzzle Game — Quebra-cabeça 15 peças](https://github.com/devhome915/puzzle-game)
+
+Jogo de quebra-cabeça deslizante desenvolvido com **React, TypeScript e Vite**, utilizando um tabuleiro 4×4 com 15 peças numeradas e um espaço vazio.
+
+Implementei a lógica de movimentação das peças, permitindo apenas movimentos válidos para posições adjacentes ao espaço vazio.
+
+O jogo também possui embaralhamento que mantém o quebra-cabeça solucionável, verificação da sequência correta e mensagem de vitória quando o jogador completa o desafio.
+
+Esse projeto foi uma oportunidade de praticar lógica de programação, controle de estados e regras de interação com o usuário.
+
+**Tecnologias:** React, TypeScript, Vite e Oxlint.
+
+[Ver código no GitHub](https://github.com/devhome915/puzzle-game)
+
 ## Tecnologias que utilizo
 
 **Frontend**
@@ -63,21 +77,7 @@ Também configurei verificações automatizadas com GitHub Actions, executando a
 - GitHub Actions
 - Vitest e Supertest
 - Oxlint
-
-### [Puzzle Game — Quebra-cabeça 15 peças](https://github.com/devhome915/puzzle-game)
-
-Jogo de quebra-cabeça deslizante desenvolvido com **React, TypeScript e Vite**, utilizando um tabuleiro 4×4 com 15 peças numeradas e um espaço vazio.
-
-Implementei a lógica de movimentação das peças, permitindo apenas movimentos válidos para posições adjacentes ao espaço vazio.
-
-O jogo também possui embaralhamento que mantém o quebra-cabeça solucionável, verificação da sequência correta e mensagem de vitória quando o jogador completa o desafio.
-
-Esse projeto foi uma oportunidade de praticar lógica de programação, controle de estados e regras de interação com o usuário.
-
-**Tecnologias:** React, TypeScript, Vite e Oxlint.
-
-[Ver código no GitHub](https://github.com/devhome915/puzzle-game)
-
+  
 ## Como trabalho e estudo
 
 Procuro entender o problema antes de alterar o código. Gosto de organizar as funcionalidades em etapas menores, separar responsabilidades e verificar o comportamento da aplicação, incluindo situações de erro.
